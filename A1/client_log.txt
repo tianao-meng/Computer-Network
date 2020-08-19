@@ -1,0 +1,42 @@
+Traceback (most recent call last):
+  File "client.py", line 81, in <module>
+    client_socekt(server_address, n_port, req_code, message)
+  File "client.py", line 20, in client_socekt
+    raise Exception, 'Error server_unavailable\n'
+Exception: Error server_unavailable
+
+r_port: 56018
+NO MSG
+
+Traceback (most recent call last):
+  File "client.py", line 81, in <module>
+    client_socekt(server_address, n_port, req_code, message)
+  File "client.py", line 20, in client_socekt
+    raise Exception, 'Error server_unavailable\n'
+Exception: Error server_unavailable
+
+Traceback (most recent call last):
+  File "client.py", line 81, in <module>
+    client_socekt(server_address, n_port, req_code, message)
+  File "client.py", line 20, in client_socekt
+    raise Exception, 'Error server_unavailable\n'
+Exception: Error server_unavailable
+
+
+r_port: 65185
+56018: mss
+NO MSG
+
+
+r_port: 62350
+56018: mss
+65185: mss
+NO MSG
+
+
+r_port: 56757
+56018: mss
+65185: mss
+62350: mss
+NO MSG
+
