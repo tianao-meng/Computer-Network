@@ -8,5 +8,5 @@ In A3, I implement a shortest path routing algorithm, much like the one found in
 
 In EoT, I get hands-on experience by simulating a virtual network using Mininet.
 
-The project is that I mentioned in my CV ,"Detection of IoT traffic anomalies based on unsupervised learning methods".
+The project is that I mentioned in my CV ,"IoT traffic anomalies detection system".
 
